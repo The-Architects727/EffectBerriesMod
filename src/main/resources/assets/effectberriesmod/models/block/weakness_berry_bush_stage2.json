@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "effectberriesmod:block/weakness_berry_bush_stage2"
+  }
+}

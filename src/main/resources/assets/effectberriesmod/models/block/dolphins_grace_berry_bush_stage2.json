@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "effectberriesmod:block/dolphins_grace_berry_bush_stage2"
+  }
+}

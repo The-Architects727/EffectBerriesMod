@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "effectberriesmod:item/instant_health_berry_pie"
+  }
+}

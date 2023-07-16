@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "effectberriesmod:block/slowness_berry_bush_stage3"
+  }
+}

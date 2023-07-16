@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "effectberriesmod:strength_effect_berry"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "effectberriesmod:strength_berry_pie",
+    "count": 1
+  }
+}

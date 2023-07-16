@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "effectberriesmod:block/effect_berry_station"
+    },
+    "facing=south": {
+      "model": "effectberriesmod:block/effect_berry_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "effectberriesmod:block/effect_berry_station",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "effectberriesmod:block/effect_berry_station",
+      "y": 90
+    }
+  }
+}

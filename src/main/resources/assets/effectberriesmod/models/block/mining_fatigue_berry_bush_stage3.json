@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "effectberriesmod:block/mining_fatigue_berry_bush_stage3"
+  }
+}

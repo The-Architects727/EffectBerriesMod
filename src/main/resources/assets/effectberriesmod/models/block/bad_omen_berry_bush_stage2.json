@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "effectberriesmod:block/bad_omen_berry_bush_stage2"
+  }
+}

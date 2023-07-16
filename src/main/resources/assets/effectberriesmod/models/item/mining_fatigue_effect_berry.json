@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "effectberriesmod:item/mining_fatigue_berries"
+  }
+}

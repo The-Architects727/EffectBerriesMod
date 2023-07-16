@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "effectberriesmod:block/hero_of_the_village_berry_bush_stage3"
+  }
+}

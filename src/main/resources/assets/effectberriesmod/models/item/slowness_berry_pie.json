@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "effectberriesmod:item/slowness_berry_pie"
+  }
+}

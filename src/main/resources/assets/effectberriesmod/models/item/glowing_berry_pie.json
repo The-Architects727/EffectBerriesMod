@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "effectberriesmod:item/glowing_berry_pie"
+  }
+}

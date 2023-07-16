@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "BHB",
+    "___"
+  ],
+  "key": {
+    "#": {
+      "item": "effectberriesmod:sweet_berry_bundle"
+    },
+    "B": {
+      "item": "minecraft:brewing_stand"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "_": {
+      "item": "minecraft:smooth_stone_slab"
+    }
+  },
+  "result": {
+    "item": "effectberriesmod:effect_berry_station",
+    "count": 1
+  }
+}

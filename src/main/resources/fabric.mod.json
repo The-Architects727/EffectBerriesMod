@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "effectberriesmod",
+	"version": "${version}",
+	"name": "EffectBerries",
+	"description": "This Mod adds berries for every effect",
+	"authors": [
+		"architects"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.architects.effectberriesmod.EffectBerriesMod"
+		],
+		"client": [
+			"net.architects.effectberriesmod.EffectBerriesModClient"
+		],
+		"fabric-datagen": [
+			"net.architects.effectberriesmod.EffectBerriesModDataGen"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.14.19",
+		"minecraft": ">=1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
