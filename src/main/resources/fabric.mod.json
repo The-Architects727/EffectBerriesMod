@@ -19,9 +19,6 @@
 		],
 		"client": [
 			"net.architects.effectberriesmod.EffectBerriesModClient"
-		],
-		"fabric-datagen": [
-			"net.architects.effectberriesmod.EffectBerriesModDataGen"
 		]
 	},
 	"mixins": [

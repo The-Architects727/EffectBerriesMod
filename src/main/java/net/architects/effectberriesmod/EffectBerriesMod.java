@@ -2,8 +2,6 @@ package net.architects.effectberriesmod;
 
 import net.architects.effectberriesmod.config.ModConfigs;
 import net.architects.effectberriesmod.villager.ModVillagers;
-import net.architects.effectberriesmod.world.feature.ModConfiguredFeatures;
-import net.architects.effectberriesmod.world.gen.ModWorldGen;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
@@ -27,8 +25,6 @@ public class EffectBerriesMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		ModConfiguredFeatures.registerConfiguredFeatures();
-
 		ModConfigs.registerConfigs();
 
 		ModItemGroup.registerItemGroups();
@@ -37,8 +33,6 @@ public class EffectBerriesMod implements ModInitializer {
 
 		ModVillagers.registerVillagers();
 		ModVillagers.registerTrades();
-
-		ModWorldGen.generateModWorldGen();
 
 	}
 }
